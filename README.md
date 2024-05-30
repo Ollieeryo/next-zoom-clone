@@ -36,6 +36,7 @@
 * [Stream](https://getstream.io/)
 * [shadcn/ui](https://ui.shadcn.com/)
 * [Tailwind CSS](https://tailwindcss.com/)
+* [TypeScript](https://www.typescriptlang.org/)
 
 ---
 
@@ -76,6 +77,7 @@ This project is developed using Next.js 14 and primarily offers video conferenci
 * [Stream](https://getstream.io/)
 * [shadcn/ui](https://ui.shadcn.com/)
 * [Tailwind CSS](https://tailwindcss.com/)
+* [TypeScript](https://www.typescriptlang.org/)
 
 # 專案畫面-Screen Photo
 ![home-page](https://github.com/Ollieeryo/next-zoom-clone/blob/main/public/home-1.png)
