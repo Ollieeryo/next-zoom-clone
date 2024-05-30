@@ -32,9 +32,9 @@
 # 環境建置-Environment SetUp
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Next.js](https://nextjs.org/)
-* [Clerk](https://www.mongodb.com/](https://clerk.com/)
-* [Stream](https://next-auth.js.org/](https://getstream.io/)
-* [shadcn/ui](https://www.npmjs.com/package/bcrypt](https://ui.shadcn.com/)
+* [Clerk](https://clerk.com/)
+* [Stream](https://getstream.io/)
+* [shadcn/ui](https://ui.shadcn.com/)
 * [Tailwind CSS](https://tailwindcss.com/)
 
 ---
